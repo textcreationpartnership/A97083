@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britannicæ virtutis imago. Or, The effigies of true fortitude, expressed to the life, in the famous actions of that incomparable knight, Major Generall Smith, who is here represented, June, 1644.</title>
+            <author>Walsingham, Edward, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97083</idno>
+            <idno type="STC">Wing W649</idno>
+            <idno type="STC">Thomason E53_10</idno>
+            <idno type="STC">ESTC R21145</idno>
+            <idno type="EEBO-CITATION">99870175</idno>
+            <idno type="PROQUEST">99870175</idno>
+            <idno type="VID">155221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155221)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E53[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britannicæ virtutis imago. Or, The effigies of true fortitude, expressed to the life, in the famous actions of that incomparable knight, Major Generall Smith, who is here represented, June, 1644.</title>
+                  <author>Walsingham, Edward, d. 1663.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>in the Yeare 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A eulogy of Sir John Smith.</note>
+                  <note>Dedication signed E. W. [i.e. Edward Walsingham].</note>
+                  <note>Annotation on Thomason copy: "July 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, John, --  Sir, 1616-1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155221:1" rendition="simple:additions"/>
+            <p>
+               <hi>Britannicae Virtutis Imago.</hi>
+            </p>
+            <p>OR, THE EFFIGIES <hi>OF</hi> TRVE FORTITVDE, Expreſſed to the life, in the famous actions of that incomparable Knight, <hi>Major Generall</hi> SMITH, Who is here repreſented, <hi>June,</hi> 1644.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Henry Hall,</hi> in the Yeare 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:155221:2"/>
+            <pb facs="tcp:155221:2"/>
+            <head>THE DEDICATION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the Immortall memory of that ever famous Gentle<g ref="char:EOLhyphen"/>man, The Glory of our Engliſh Nation, Sir <hi>John Smith</hi> Knight, Major Generall of his Majeſties Weſterne Army, under Command of the Right Honourable the Lord <hi>Hopton:</hi>
+            </p>
+            <closer>
+               <signed>His ſervant and admirer conſecrateth this, E. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="biographical_account">
+            <pb facs="tcp:155221:3"/>
+            <pb n="1" facs="tcp:155221:3"/>
+            <head>
+               <hi>Britanicae Virtutis Imago,</hi> OR, The Life and Death of renowned, Sir IOHN SMITH.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Reigne of <hi>James</hi> the prudent Monarch of <hi>Great Britaines</hi> united Empire drew neare a period: at <hi>Skilts</hi> in <hi>Warwick-ſhire,</hi> (a Mannour of the <hi>Sheldons)</hi> was borne this ornament of our Nation I am now to treat of; by a choyce and ſelected branch, of the ſtout and valiant <hi>Markhams</hi> of <hi>Nottingham<g ref="char:EOLhyphen"/>ſhire,</hi> married to Sir <hi>Francis Smith</hi> of <hi>Wotton Wavers</hi> in the County of <hi>Warwicke:</hi> Heire to the Noble and an<g ref="char:EOLhyphen"/>cient Family of the <hi>Caringtons;</hi> famous for Sir <hi>Michael Caring<g ref="char:EOLhyphen"/>ton,</hi> Standard bearer to our firſt <hi>Richard</hi> in the <hi>Holy-land,</hi> and renowned for the loyalty of <hi>John Carington</hi> Eſquire, to his Lord and Soveraigne King <hi>Richard</hi> the ſecond, upon whoſe depoſall he was forct to flie into <hi>Italy,</hi> where he grew famous for many brave and valiant acts: yet at his returne he chang'd his name to <hi>Smith,</hi> which all his Poſterity have ever ſince retained, untill now it hath pleaſed His royall Majeſty, to renew the ancient name of this Fa<g ref="char:EOLhyphen"/>mily in the preſent Lord <hi>Carington,</hi> Sir <hi>John Smith's</hi> eldeſt bro<g ref="char:EOLhyphen"/>ther. The <hi>Eſcucheon</hi> of this Family is of ſo neere a ſemblance to the badge of the moſt Noble Order of the Garter, that in my judge<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:155221:4"/> it convinces it ſelfe to be a kingly guift, beſtowed upon them for ſome notable ſervice atchieved by their Predeceſſours: The particular definition whereof I leave to the Heralds as a ſtar viſible onely in their <hi>Horizon.</hi> But I am ſure I doe not remember to have ſeene any Family in <hi>England,</hi> excepting this, to beare in a white Field a red Croſſe in a forme ſo genuine to that we call St <hi>Georges.</hi>
+            </p>
+            <p>This Sir <hi>Francis Smith</hi> was a Gentleman of that integrity of life and noble nature, that to this day his memory is ſtill preci<g ref="char:EOLhyphen"/>ous amongſt thoſe that knew him. He was remarkeably happy for many worthy children and faire poſſeſſions, but eſpecially in his Conſort, a Lady of thoſe excellencies, that we could expect no or<g ref="char:EOLhyphen"/>dinary peice of nature from her; being alſo eminent for her hoſpi<g ref="char:EOLhyphen"/>tality and charity, but eſpecially for her loyalty ſo firme and ſpot<g ref="char:EOLhyphen"/>leſſe, that it is almoſt incredible and beyond example what that noble Lady hath ſuſtained when for a ſmall contribution ſhe might have ſecured her ſelfe; ſhe rather chooſing with a magnanimous patience to undergo the loſſe of all, then in the leaſt manner to comply with the Kings enemies.</p>
+            <p>Before the birth of the <hi>Heroike child,</hi> this vertuous Lady and her Knight fell dangerouſly ſicke, as if they had both contributed their utmoſt powers to his perfections. Nature perceives him to fit her expectation, and therefore impatient we ſhould longer ex<g ref="char:EOLhyphen"/>pect her bounty, expoſes him to the world at leaſt a moneth be<g ref="char:EOLhyphen"/>fore the uſuall time. It may be ſhe deſired that even in his birth, the child ſhould make the firſt triall of his valour, and beyond ex<g ref="char:EOLhyphen"/>ample there expreſſe his magnanimity, and contempt of danger.</p>
+            <p>I ſhall not need to aske pardon if I paſſe by his infancy, as af<g ref="char:EOLhyphen"/>fording nothing but meerly ſhadowes of a great ſpirit, incloſed in that little casket, in a ſleepe (as it were) expecting his maturity. His infancy paſt he is brought from his nurſe, and committed to his mothers care, where his education could not chooſe but be excellent; for without vanity I ſpeake it, this Kingdome affords not a Lady, that hath given more happy teſtimonies of her skill in that kind. In the time of his childhood, his ſweet and tractable nature made him ſingularly beloved in his Fathers Family, and to this day many of them much pleaſe themſelves with his pretty policies, and witty ſtratagems to compaſſe his ſports, and deceive ſuch as held a hand over him.</p>
+            <pb n="3" facs="tcp:155221:4"/>
+            <p>He is no ſooner capable of learning, but he is ſent to a Kinſmans houſe, amongſt other young Gentlemen allied unto him to lay the foundation of a Scholler: where notwithſtanding his active diſ<g ref="char:EOLhyphen"/>poſition, he profited ſo well, that after ſome reaſonable prepara<g ref="char:EOLhyphen"/>tive his Parents deſirous to make him more accompliſht, ſent him to ſtudy and travell beyond Seas: where he made ſo good a pro<g ref="char:EOLhyphen"/>greſſe both in the Greeke and Latine tongues, that in one of the prime Claſſes, he obtained the Emperours Chayre, a Seat of emi<g ref="char:EOLhyphen"/>nent difference from all the reſt, and due to him that is judged to excell his fellowes.</p>
+            <p>But nevertheleſſe he is impatient of this manner of life, his noble mind aſpires to greater actions, and will no longer be contain'd in this courſe. The Almighty begins to call him to that ſtate wherein he is pleaſed to imploy him. Who will not be ſatisfied untill he be ſent for <hi>England,</hi> where arriving contrary to his friends deſire, he finds a welcome accompanied with rebukes; which he long patiently ſuſtained without any effect: at laſt, meerly to comply with them againſt his owne nature, he takes his courſe the ſecond time for the <hi>Low Countries;</hi> where he takes his books in hand, and againe falls to his ſtudy: not without dayly conflicts with himſelfe in overcoming his contrary inclination. But there he de<g ref="char:EOLhyphen"/>monſtrated his vertue, in conquering himſelfe to ſatisfie the deſires of his Parents and friends, declaring he knew as well how to ma<g ref="char:EOLhyphen"/>ſter his paſſions, as his bodily enemies. Which in a thing of that nature, ſo to overcome himſelfe, conſidering his age and ſpirit, was very remarkeable.</p>
+            <p>In the place where now he reſides, there happens a Commotion in ſome ſort reſembling ours: where the dreggs and rude multi<g ref="char:EOLhyphen"/>tude of the City bandy againſt their Prince, Magiſtrates, and No<g ref="char:EOLhyphen"/>bility, in ſuch ſort that nothing but ruine ſeemed to hang over the heads of the latter. The Rebells were ſo numerous and violent, growing dayly ſo inſolent, that at laſt the beſt ſort were compell'd to endeavour their owne defence in the beſt manner they could: for divers of their perſons and houſes were violated and plunder<g ref="char:EOLhyphen"/>ed, the ſame being imminent to the reſt: wherefore they arme themſelves as they can, and reſolve to reſiſt if any one ſhall here<g ref="char:EOLhyphen"/>after be aſſaulted. This quickly produced a Skitmiſh; wherein the multitude prevayling, our <hi>gallant young Student</hi> heares of it, and
+<pb n="4" facs="tcp:155221:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155221:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:155221:6"/> can no longer containe himſelfe, but goes out of the <hi>Colledge</hi> where he reſided, takes armes from the next he meets in the ſtreet, and joynes to the weaker ſide; putting himſelfe into the head of them, where with his brave carriage he doth ſo encourage, and revive them, as if his valour had an influence upon each in particular. Wherefore they give a freſh aſſault to the enemy, and that with ſo good ſucceſſe, that they foyled their vanquiſhers: who were ſoone daunted when they ſaw our <hi>young Champion</hi> had laid their <hi>Mecha<g ref="char:EOLhyphen"/>nicke Leader</hi> upon the ground, and ſtill beſtowed his ſtrokes ſo freely on all that he came neere, that the reſt judged it better to give ground, then to come in reach of his ſword.</p>
+            <p>Their retreat was ſo ſudden and confuſed, that much of their Plunder was left behind, where our noble youth happens upon a Cloak-bag full of Silver plate. His eminent ſervice this day pro<g ref="char:EOLhyphen"/>cured him ſpeciall thanks from the chiefe of the City, but the o<g ref="char:EOLhyphen"/>ther ſide were ſo enraged againſt him, that they vowed to hew him in pieces; and to that end laid wait every way to compaſſe him. By this time an Army comes to puniſh the offenders, and ſettle the City; our young Souldier glad of this opportunity ſe<g ref="char:EOLhyphen"/>conded with the neceſſity of avoiding the peoples fury, bids his books farewell, layes by his gowne, and takes his ſword in hand, repairing to the Campe; where he puts himſelfe into a poſture fit for a gentleman of his birth under an expert Commander: and behav'd himſelfe with that gallantry, as purchaſed him love, and admiration from all that knew him.</p>
+            <p>You have ſeene his introduction to Martiall attempts was both fortunate and gallant, where you may obſerve, that this <hi>noble ſpi<g ref="char:EOLhyphen"/>rit</hi> in his firſt enterprize, ſhew'd a naturall averſion from baſe, and vulgar actions: and that he diſdained to accommodate himſelfe to Popular humors; chooſing rather to ſuffer ſhipwrack with the nobler ſort, then to ſtand idle and let them periſh, if his endea<g ref="char:EOLhyphen"/>vour might the leaſt conduce to their ſafety.</p>
+            <p>It was not long after he had entred the ſchoole of <hi>Mars,</hi> but he had occaſion given to make tryall of his wit, as well as fortitude; for a Party of their Horſe attempted to beat up the enemies Quar<g ref="char:EOLhyphen"/>ters, and at the firſt entered the place; where out of inconſidera<g ref="char:EOLhyphen"/>tion and deſire of Pillage, they made a way to their owne ruine, by diſmounting; for the enemy finding a way to gather a head and
+<pb n="5" facs="tcp:155221:6"/> call more aid, came and ſurprized the diſperſed Souldiers. Our <hi>Heroike youth</hi> had ſtill diſcreetly kept on Horſebacke, and pre<g ref="char:EOLhyphen"/>vailed with ſome few more to doe the like, which had all eſcaped had not the enemy ſtrangly circumvented them. They ſeeing no hope of eſcape left, reſolved to force a way by meere ſtrength. In this attempt, he leading the way was knockt off his Horſe with ſuch a violence, that quite aſtoniſhed him; the enemy gave him for dead, he falling proſtrate on his face. Wherefore they buſied themſelves in ſearching for and purſuing the reſt, making ſure of him at leiſure. At laſt recovering his ſpirits and memory, conſider<g ref="char:EOLhyphen"/>ing how he came there, he lyes ſtill for a while, till hearing the ſtreets quiet, he lookt about very circumſpectly, and diſcovers all cleare with a Stable open over againſt him furniſhed with Horſes ready ſadled: He takes hold of the oportunity and goes in, choo<g ref="char:EOLhyphen"/>ſes one of the prime Horſes, commanding the boy there, not to dare to ſpeake till he was gone, as he tendred his owne life. After he is out he puts ſpurs to his Horſe, which with ſuch celerity con<g ref="char:EOLhyphen"/>veyed him thence, that he eſcapt his purſuers, and unhurt paſt by divers that met him. When he arrived at the Army, divers of the chiefe Commanders were full of joy to ſee him, whoſe fall but even now they did generally there condole. The Generall him<g ref="char:EOLhyphen"/>ſelfe did praiſe his ingenuity and courage, giving him one hundred pieces for the Horſe he brought away.</p>
+            <p>This put a ſecond vigour into him, both encouraging and en<g ref="char:EOLhyphen"/>abling him to continue in his preſent courſes; his ſucceſſe doth a<g ref="char:EOLhyphen"/>nimate him, and his reward gives life to his encouragement. He continues with ſingular reſpect and love amongſt the Comman<g ref="char:EOLhyphen"/>ders, and Souldiers: moſt of the later propoſing him as an example to themſelves. At laſt ſome accident or other happens which calls him into <hi>England,</hi> his departure is very unpleaſing to that Army, nor can he get away without engagement of his honour for his ſpeedy returne. By this time his ſame is growne eminent, and his friends began to reliſh his courſes, which makes his welcome of a better temper then before; for now they did honour thoſe excel<g ref="char:EOLhyphen"/>lencies in him which ſo proſperouſly began to flouriſh.</p>
+            <p>He had ſcarce taken time to viſit his friends after his arrivall, but his promiſe calls him backe, and thither alſo he is already by Let<g ref="char:EOLhyphen"/>ter invited: the imployment was ſo gratefull unto him, that to
+<pb n="6" facs="tcp:155221:7"/> his friends he makes a neceſſity of vertue, and tells them he had engaged his honour for his returne; under this pretence he bids them farewell, and immediately repaires to his former ſervice in the <hi>Netherlands,</hi> where he ſerves in the <hi>Lieutenant Generalls</hi> owne Troope, whoſe favourite he was, preferred in eſteeme before the reſt.</p>
+            <p>I am ſorry, that I am not able to give account of ſundry of his actions deſerving memory, performed in this time: divers of which I have heard related, though now I cannot call them to mind. One thing I cannot omit, to wit, the taking of a ſignall Colour in a me<g ref="char:EOLhyphen"/>morable Fight in thoſe parts, wherein the honour of the adverſe Army was much engaged. And here I may take occaſion to ex<g ref="char:EOLhyphen"/>preſſe his modeſty, in my judgement very ſingular, for in the gain<g ref="char:EOLhyphen"/>ing of thoſe Colours he having ſlaine the man that carried them, another takes them up, when they were downe, whom the ene<g ref="char:EOLhyphen"/>mies aſſaile in ſuch manner, that there had that party died, had not our <hi>Engliſh Gallant</hi> reſcued both him and the Colours. This un<g ref="char:EOLhyphen"/>gratefull man out of too much vanity, claymes the reward for the action, and ſuch was this young gentlemans modeſty that he re<g ref="char:EOLhyphen"/>ſign'd it, and as much as in him lay the honour of the act unto him.</p>
+            <p>This and ſuch like gained him an extraordinary portion of ho<g ref="char:EOLhyphen"/>nour, and eſteeme amongſt all; but eſpecially endeared him to his Generall: inſomuch that he ſeeks occaſion to diſplace his owne Captaine-Lieutenant, thereby to make way for his advancement to that place. Which when our gallant perceives, with anger he ex<g ref="char:EOLhyphen"/>preſſes his diſlike of it, and abſolutely refuſes the offer: But ſtill ſeeing his Generall promoting the buſineſſe, and privately urging it, with a modeſt indignation he proteſts that he will not build on anothers ruine, and therefore quits the ſervice. Here you may be<g ref="char:EOLhyphen"/>hold an eminent effect of that true nobility which inhabited his generous breſt, and how much he diſdained to tread upon ano<g ref="char:EOLhyphen"/>thers head, for his owne advancement.</p>
+            <p>Immediately after this the Scottiſh Tumults began at home, whereupon an honourable invitation concurring with his owne naturall inclination to that ſervice; he makes for <hi>England:</hi> chooſ<g ref="char:EOLhyphen"/>ing rather to ſerve his owne Soveraigne, then any forraigne Prince. This was unwelcome newes to the <hi>Belgian</hi> Army, that he ſhould
+<pb n="7" facs="tcp:155221:7"/> now forſake that Field where his Laurell began ſo happily to flou<g ref="char:EOLhyphen"/>riſh. But he will by no meanes be any longer detained from doing ſervice to his owne Lord and Soveraigne, therefore requeſting them in this reſpect to diſpence with him, he takes his leave. There never went thence a young Gentleman more beloved, or of whoſe loſſe the Souldiers were more ſenſible. When he was gone, long time, and often was he a ſubject of their diſcourſe, one praiſed his incomparable valour, another his diligence, a third his obedience and modeſty, a fourth his courteſie and truly noble nature, in fine they generally concluded, that he was a prime ornament to our whole Nation: nay, ſome chiefe men amongſt them did by Let<g ref="char:EOLhyphen"/>ters confeſſe, they did emulate <hi>England</hi> in the poſſeſſion of him.</p>
+            <p>By this time is our <hi>young Picolhomini</hi> arrived in <hi>England,</hi> (for that ſirname the <hi>Netherlands</hi> had already honoured him withall) he begins his Co<g ref="char:cmbAbbrStroke">̄</g>mand under that noble and valiant Knight Sir <hi>John Digby,</hi> whoſe Lieutenant he was: in which place he carried him<g ref="char:EOLhyphen"/>ſelfe ſo worthily, that no ones gallantry in that ſervice was more famous then his, of which he gave ſingular evidence in the Fight at <hi>Newburne.</hi> At which time his Captaines captivity gave him oc<g ref="char:EOLhyphen"/>caſion for his releaſe, ſhortly after to make triall both of his valour and diſcretion, in a very remarkeable manner.</p>
+            <p>
+               <hi>Douglas, Sheriffe of Tividale</hi> (whilſt the <hi>Scottiſh Army</hi> lay heavy upon the <hi>North</hi> of <hi>England)</hi> adventured, with a party of a<g ref="char:EOLhyphen"/>bout four ſcore Horſe, to plunder a Houſe in thoſe parts called <hi>Sta<g ref="char:EOLhyphen"/>pleford,</hi> belonging to Maſter <hi>Pudſey,</hi> a Gentleman of quality. Who as ſoone as they are arrived, finds meanes to bring intelligence to His Majeſties Army, where Lieutenant <hi>Smith</hi> ſeeing few upon the newes ſhew any great alacrity or forwardneſſe to undertake his reſcue, proffers himſelfe to take it upon him, angry (as it were) to ſee ſo little commiſeration or reſolution in many others who were more concerned in it then he. Being authorized to go, he ſelects a ſmall party of Horſe (of a farre leſſe number then many judged re<g ref="char:EOLhyphen"/>quiſite for his undertaking) thereby to make his enterprize more honourable, calling along with him two or three Trumpets beſides his owne, meaning to make that diſcreet uſe of them which ſhortly followers. This done, he ſets forward towards the place, where he arrives with that privacy, that diſpoſing all his Trumpets but one, on ſeverall ſides of the Houſe, he comes upon the Centry at
+<pb n="8" facs="tcp:155221:8"/> unawares, and cleaves him downe thorow head-piece, and all; then commands the Trumpet he had reſerved to ſound a charge, which all the other did ſecond with great amazement to the <hi>Scots,</hi> who thinking themſelves to be beſieged on all ſides, could not re<g ref="char:EOLhyphen"/>ſolve whether it were better to fight or retreit, either of which they might well have done, had they knowne how few their aſ<g ref="char:EOLhyphen"/>ſailants were. In this confuſion, an old woman of the Houſe found meanes to let them in at a doore unguarded, where being entred they killed ſixteen in the place, and the reſt of the Souldiers with <hi>Douglas</hi> their Commander ſurrendred themſelves, to the mercy of this prudent and valiant Gentleman, who led them captive to His Majeſties Army; rejoycing that he had got one wherewith to re<g ref="char:EOLhyphen"/>leaſe his Captaine, which by exchange was immediately per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>This was the onely action, redounding to His Majeſties honour, and the credit of our Nation, performed in all that ſervice. For our owne Army was then ſo confounded with Faction, and conſe<g ref="char:EOLhyphen"/>quently expoſed to treachery, that we proſpered in nothing we then undertooke. What honour and fame he gained by this, I need not expreſſe; for there are few I preſume in this Kingdome that are ignorant of it, every one praiſing and admiring ſo much diſcre<g ref="char:EOLhyphen"/>tion, and ſo brave a ſpirit in a gentleman ſo young. Not long after our <hi>Royall Soveraigne</hi> out of His tender compaſſion to both the Nations, and His unwillingneſſe to engage them in a Civill Warre, finds meanes to cloſe up the breach betweene them: though not without prejudice to His owne Royall Prerogative.</p>
+            <p>Now our brave Souldier betakes himſelfe to a retired life, in his Mothers houſe at <hi>Aſhby Folvile</hi> in <hi>Leiceſterſhire,</hi> not ayming at any further voyage: for he prudently foreſaw that the former fire though now covered with aſhes of a pacification, would ſhortly breake out into a greater flame then before. And was but a pre<g ref="char:EOLhyphen"/>amble to this horrid and unnaturall Rebellion, which now ſuffici<g ref="char:EOLhyphen"/>ently appeares in its owne ſhape. He ſaid, <hi>he knew evidently, that though the</hi> Scots <hi>had obtained their wiſhes, yet the</hi> Faction <hi>who in<g ref="char:EOLhyphen"/>vited them to what they did, were as little ſatisfied as over, and con<g ref="char:EOLhyphen"/>ſequently their unruly ſpirits, could not long containe themſelves out of action, but ſhortly would endeavour to ſet the Kingdome on fire.</hi> He in the interim contented himſelfe with this retirement, being
+<pb n="9" facs="tcp:155221:8"/> by reaſon of this expectation, unwilling to take any Command a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>His <hi>Majeſty</hi> was pleaſed in reſpect of his eminent carriage in the laſt action, to offer to make him a <hi>Knight Baronet,</hi> as a princely reward, and encouragement for his further progreſſe in theſe <hi>He<g ref="char:EOLhyphen"/>roike courſes.</hi> He conſidering himſelfe to be the youngeſt of foure brothers, that his revenewes did nothing agree with the main<g ref="char:EOLhyphen"/>tenance of ſuch a Title, and believing that honour on thoſe condi<g ref="char:EOLhyphen"/>tions would be but a meere burthen unto him, modeſty refuſed it; contenting himſelfe with his former condition: which action doth cleare him from all aſperſion of vanity. This <hi>interim</hi> he beſtowed in ſo good a manner, that he acquired ſingular love and reſpect, from all that converſed with him. His converſation was ſo ſweet and affable, and his exceſſes ſo rare, that moſt men in a Souldier ad<g ref="char:EOLhyphen"/>mired that temperance and courteſie. This time he neglected not frequently to read and ſtudy books of Military Diſcipline and in<g ref="char:EOLhyphen"/>ſtruction; but thoſe ſelected, and of the choyceſt ſort: to theſe he added Hiſtories, ſeeking to extract thence in ſhort time by <hi>Theory,</hi> what many yeares practiſe would hardly afford him. He did well diſcover the ignorance of ſuch, as are onely trained up in the ſehoole of practiſe, under a few yeares experience; and confeſt, that <hi>a meere practicall knowledge could not make a perfect Souldier, and that practiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought neither to march in obſtinate blindneſſe with<g ref="char:EOLhyphen"/>out ſpeculatives of hiſtoricall knowledge, and examples; nor theſe againe without practiſe, but that both of them ſhould be respected as neceſſary parts, to make a compleat Souldier.</hi>
+            </p>
+            <p>Long time paſſed not before the unhappy actors in this preſent tragedy, forgetfull of the honour of our Nation, their duty to their Soveraigne, or love to their Country, bring to light this unnaturall and ugly monſter of Rebellion, and Civill Warre: not reſpecting their owne happineſſe in the calme of a happy peace, or felicity in a King of that excellent temper, for all perfections belonging to a good Prince, that hardly ever did <hi>Britannia</hi>'s <hi>Diadem</hi> crowne the temples of his equall. This ſuddenly growes to that height and in<g ref="char:EOLhyphen"/>folence, that it was out of His Majeſties power to ſuppreſſe it, ſeeing himſelfe on a ſuddain deprived of all His Armes, Ships, Forts, and neceſſaries for Warre. But ſoone he is brought to that exigent, that either Himſelfe, His Queene, and Royall Progeny with the
+<pb n="10" facs="tcp:155221:9"/> whole Kingdome muſt be ruined, or elſe he muſt endeavour to op<g ref="char:EOLhyphen"/>poſe himſelfe, by all poſſible meanes to hinder its further pro<g ref="char:EOLhyphen"/>greſſe. To this end he caſts himſelfe into the armes of the divine providence, and out of nothing begins to raiſe an Army for His owne defence; preſently our <hi>young Worthy</hi> is ſought for, and made Captain-Lieutenant <hi>under the Lord Iohn Steuort</hi> (brother to the <hi>Duke of Richmond and Lenox)</hi> a gentleman of a wonderfull ſweet and noble diſpoſition.</p>
+            <p>This Troope was very eminent in reſpect of the Commander, upon whom the eyes of moſt men were fixt in extraordinary ex<g ref="char:EOLhyphen"/>pectation, wherein whether they were deceived or no, let his ſuc<g ref="char:EOLhyphen"/>ceeding actions declare. In the time of his Quartering at <hi>Lincolne</hi> there happened a paſſage worth noting. Not long before, there was a gentleman of quality in the Kings Army taken Priſoner by the <hi>Proto Rebels of Kingſton</hi> upon <hi>Hull,</hi> and there in time of his durance was abuſed by one of the <hi>Wrayes,</hi> Heire to one of the chiefe Houſes of that name in <hi>Lincolnſhire,</hi> who like a Jay, caſt a glaſſe of beere in contempt into the captive Gentlemans face. Whereof our <hi>gallant Commander</hi> hearing, was much incenſed: determining to vindicate the wronged Gentleman, if ever occa<g ref="char:EOLhyphen"/>ſion were offered. Whilſt he was at <hi>Lincolne</hi> this hotſpur <hi>Wray</hi> comes to Towne, whereof he having notice, repaires to the houſe and enters the roome where <hi>Wray</hi> and divers others ill-affected to His Majeſty were met; he demands of him whether he were the man who at ſuch a time abuſed one of His Majeſties Souldiers in <hi>Hull?</hi> the other peremptorily acknowledging the fact, he takes occaſion with his cane to pay him his hire, and did it to the pur<g ref="char:EOLhyphen"/>poſe, in ſuch a manner, that the other preſent daunted with his courage, dared not once to ſtirre in <hi>Wrayes</hi> defence. This was an argument of his noble nature, and ſerved the Souldiers and Townſ<g ref="char:EOLhyphen"/>men to laugh at a long time after. The like he did ſince on a Knight of greater name and <hi>bulk</hi> in vindication of a noble <hi>Lord</hi> to whom that Knight had been too <hi>ingratefull.</hi> Indeed his diſpoſition was ſuch that he could better indure to ſee himſelfe wronged, then any other ingenuous man, and would ſooner vindicate anothers inju<g ref="char:EOLhyphen"/>ry, then his owne.</p>
+            <p>He could not indure to ſee the inſolence of Souldiers over the poore peſants and country people, ueither ever would he tolerate
+<pb n="11" facs="tcp:155221:9"/> it if it lay in his power either by foule or faire meanes to remedy. Which an Officer of the Army (who thought himſelfe no meane man experienced certainly at <hi>Leiceſter.</hi> This man uſurpes power, upon I know not what authority, to preſſe, and diſpoſe of Horſes at his pleaſure: which he performed with that inſolence, as was very grievous to the people. Wherefore they complained to this <hi>generous Commander,</hi> who immediately queſtioned the o<g ref="char:EOLhyphen"/>ther about it, and finding him both very guilty, and peremptory in his offences: Layes him (although he were his name-ſake) by the head and heeles in the ſtable, amongſt the horſes, and there lets him lie, <hi>durante beneplacito,</hi> till he was intreated to releaſe him.</p>
+            <p>By this time the <hi>Cockatrice</hi> of this Rebellion was growne to ſome maturity, &amp; amongſt all that ſought to lop the growing Mon<g ref="char:EOLhyphen"/>ſter our noble Captaine <hi>Smith</hi> gave one of the firſt blowes: the particulars whereof as they are related authentikely by the Herald, (who extorted the relation from his owne mouth) I will here in<g ref="char:EOLhyphen"/>ſert. In the beginning of <hi>Auguſt.</hi> 1642. He marcht with the Lord <hi>Iohn Stuarts</hi> Troope into <hi>Warwickeſhire,</hi> there to meet the noble Earle of <hi>Northampton,</hi> who was then in Armes for His Ma<g ref="char:EOLhyphen"/>jeſty. Captaine <hi>Bartue</hi> Troope marcht with him, and at <hi>Rugby</hi> on the edge of the aforeſaid County he quartered the 8 of that moneth, where he underſtood that at <hi>Kilsby</hi> in <hi>Northamptonſhire,</hi> about two miles diſtant, the Inhabitants had put themſelves in Armes againſt His Majeſties Proclamation; He therefore con<g ref="char:EOLhyphen"/>ceiving it fit to diſarme them, did that night ſet a ſtrong Guard in <hi>Rugby</hi> of about 30 Horſe, to the end he might draw out of the Towne at any hower with the leſſe noyſe, or notice.</p>
+            <p>Before breake of the day he marcht out, the morning being ve<g ref="char:EOLhyphen"/>ry wet, and before it was light, coming to <hi>Kilsby</hi> Towne ſide drew up his Horſe in a body. As ſoone as it was cleare day he en<g ref="char:EOLhyphen"/>tred the towne, where preſently he found the people gathering to<g ref="char:EOLhyphen"/>gether, ſome with Muskets or other gunnes, others with Pitch<g ref="char:EOLhyphen"/>forkes and Clubs, <hi>He</hi> asked them <hi>what they meant,</hi> and <hi>told them he had no purpoſe to doe them harme, entreating them to deliver up their Armes for His Majeſties ſervice.</hi> The untuly people no whit hearkned to his courteous deſires, but furiouſly aſſaulted his Troop, (which could not be drawne up into a body in regard of the ſtrait<g ref="char:EOLhyphen"/>neſſe of the paſſage) they wounded two or three of his men and
+<pb n="12" facs="tcp:155221:10"/> ſome horſes. Yet made he ſhift to diſarme ſome of them, and then advances to the <hi>Conſtables</hi> houſe, where he finds more company; but co<g ref="char:cmbAbbrStroke">̄</g>manded his men not to diſcharge a Piſtoll upon pain of death, hoping yet by faire meanes to qualifie them. Immediately divers ſhot is made from the Windowes at him; whereupon, he com<g ref="char:EOLhyphen"/>manded his men to give fire, and ſo preſently diſpatcht three or foure of them: which the reſt ſeeing, ran away all except an old man that with his Pitchforke ran at Captaine <hi>Smith,</hi> and twice ſtroke the tynes thereof againſt his breſt, who by reaſon of his armes under a looſe coate received no hurt, yet could not this old man by any intreaty be perſwaded to forbeare, till a Piſtoll quieted him. Here he took 40 Muskets, and the ſame day marcht towards the valiant Earle of <hi>Northampton,</hi> whom he met with <hi>Brookes</hi> his <hi>Ordnance,</hi> about three miles from <hi>Warwicke</hi> and attended him thither. In this action if you conſider the condition of thoſe times, you will diſcover a great deale of diſcretion in the managery of it, and nothing ſavouring of raſhneſſe or vanity, ſome taint whereof you might well expect in a young Gentleman ſo ſpritefull, and o<g ref="char:EOLhyphen"/>verflowing with valour.</p>
+            <p>The next action remarkable that our fortunate gallant had a hand in, was that famous fight <hi>September</hi> the 23. the ſame yeare, neare <hi>Worceſter:</hi> where he charged with that bravery and diſcretion, that many confeſſe he did ſingularly promote the victory. Thus dayly he gained new honours, and his Laurell ſtill flouriſhed with more ſplendor then could be expected in his age.</p>
+            <p>To this at <hi>Worceſter</hi> ſucceeds that memorable Battaile neere <hi>Keinton</hi> in <hi>Warwickeſhire,</hi> the particulars whereof following we owe to Mr. <hi>Dugdale, Cheſter Heralds</hi> carefull preſervation. His Troope at this time being in the Lord <hi>Grandiſons</hi> Regiment, was drawne up in the left wing of the Kings Army; This day his ſin<g ref="char:EOLhyphen"/>gular valour was moſt eminent for ſundry notable actions, eſpe<g ref="char:EOLhyphen"/>cially his reſcue of His Majeſties <hi>Banner Royall,</hi> vulgarly called the <hi>Standard.</hi> For after the Rebells left wing of Horſe, and divers Re<g ref="char:EOLhyphen"/>giments of Foot were routed, and execution followed by His Ma<g ref="char:EOLhyphen"/>jeſtices Horſe of both wings, through and beyond the Towne of <hi>Keinton.</hi> It happened that this prudent Commander ſaw ſome <hi>e<g ref="char:EOLhyphen"/>minent perſons</hi> of His Majeſties Army, in purſuit of the flying <hi>Re<g ref="char:EOLhyphen"/>bells,</hi> which he conceived had beene appointed as a Reſerve of
+<pb n="13" facs="tcp:155221:10"/> horſe, for aſſiſtance of our foote: which much amazed him, hearing both Armies at that inſtant in ſharpe fight, whereupon he preſent<g ref="char:EOLhyphen"/>ly ſeekes out the Lord <hi>Grandiſon,</hi> Sir <hi>Charles Lucas,</hi> and ſome o<g ref="char:EOLhyphen"/>ther Officers of quality; and importuned their ſpeedy rallying to<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther of what horſe in this confuſion could be ſuddainly got, that ſo ſpeedily they might returne to the aſſiſtance of out foot.</p>
+            <p>His excellent adviſe was very well reſented by thoſe noble Gen<g ref="char:EOLhyphen"/>tlemen, and accordingly they ſoone rallyed about 200 horſe, and marched backe towards the Armies then in fight. In their paſſage they met with a great part of the Rebells of <hi>Charles Eſſex</hi> his Regi<g ref="char:EOLhyphen"/>ment, running confuſedly towards <hi>Keinton</hi> Towne with their co<g ref="char:EOLhyphen"/>lours: thoſe they preſently charged, ſlew ſome, routed the reſt and tooke all their Colours. This done theſe horſe rallyed againe, and advanced, but they had not paſt farre before they met with about three Troopes of the Rebells horſe, which were wheeled off from the reare of their foote, theſe alſo they charged, routed, and follow<g ref="char:EOLhyphen"/>ed in execution ſo farre, that now this brave Commander could ral<g ref="char:EOLhyphen"/>ly but fourteene men together to proſecute his returne: with which as he paſſed up ſtill towards the reare of the Rebells Army, he met with a great part of the Lord <hi>Whartons</hi> Regiment that formerly were routed alſo, and now were with their Colours, confuſedly haſtening towards <hi>Keinton</hi> Towne; theſe with his fourteene horſe he valiantly charg'd, and routing them tooke their Colours. The Majors Colours were taken by himſelfe, which he delivered to one <hi>Chichly</hi> a groome of the <hi>Duke of Richmond's,</hi> who had taken a Co<g ref="char:EOLhyphen"/>lours of <hi>Charles Eſſex</hi> his Regiment.</p>
+            <p>But now of all his fourteene there was no more left but himſelfe and <hi>Chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hley:</hi> the reſt following the pillage of the routed Rebells. As theſe two were paſſing on towards our Army, this <hi>Mirrour of Chivalry</hi> eſpies ſix men, three <hi>Curiaſiers</hi> and three <hi>Harquebuſiers</hi> on horſebacke, guarding a ſeaventh on foot, who was carrying off the Field a Colours rouled up which he conceived to be one of the or<g ref="char:EOLhyphen"/>dinary Colours of His Majeſties <hi>Leife-guards,</hi> and therefore ſeeing them ſo ſtrong, intended to avoide them. Whil'ſt he was thus con<g ref="char:EOLhyphen"/>ſidering, a boy on horſebacke calls to him ſaying, <hi>Captaine Smith, Captaine Smith, they are carrying away the Standard.</hi> He would not ſuddainly beleive the boy, till by great aſſeverations he had aſſured him it was the <hi>Standard,</hi> who forthwith ſaid, <hi>They ſhall have me with</hi>
+               <pb n="14" facs="tcp:155221:11"/> 
+               <hi>it, if they carry it away;</hi> and deſiring <hi>Chichley</hi> if he ſaw him much en<g ref="char:EOLhyphen"/>gag'd, to throw down the other Colours &amp; aſſiſt him; preſently he charg'd in with his rapier at the footman that carried the Banner, (who was then Secretary to <hi>Eſſex</hi> the Rebells Generall) ſaying, <hi>Traitor deliver the Standard,</hi> and wounded him into the breaſt, whil'ſt he was bent forward to follow his thruſt, one of thoſe <hi>Cu<g ref="char:EOLhyphen"/>riaſters</hi> with a <hi>pollax</hi> wounded him in the necke through the Collar of his doublet, and the reſt gave fire at him with their piſtolls, but without any further hurt then blowing of ſome pouder into his face.</p>
+            <p>No ſooner was he recovered upright, but he made a thruſt at the <hi>Curiaſier</hi> that wounded him, and ran him into the belly, whereup<g ref="char:EOLhyphen"/>on he preſently fell, at which ſight all the reſt ran away. Then he cauſed a foot ſouldier that was neare at hand to reach him up the banner, which he brought away with the horſe of that <hi>Curiaſier.</hi> Immediately comes up a great body of His Majeſties horſe which were rallyed together (according to his firſt advice) to charge the enemy againe, with whom he ſtaid; delivering the <hi>Standard</hi> to Maſter <hi>Robert Hatton,</hi> a Gentleman of Sir <hi>Richard Willyes</hi> his Troope, to carry forthwith to His Majeſty. So farre was he from prizing his owne action, or gaping after honour or reward. The day was now ſo farre ſpent that he had time left onely to reſcue Co<g ref="char:EOLhyphen"/>lonell <hi>Richard Feilding</hi> who was taken Captive by the <hi>Rebells,</hi> and was leading away, whil'ſt in the interim our <hi>Heroicke Commander</hi> comes, and in deſpite of them ſets him at liberty. Surely this daies worke deſerves eternall memory, and concludes that he was borne this day to place a laurell garland on his Soveraignes head, and pre<g ref="char:EOLhyphen"/>ſerve the honour of His Nation; Many confeſſe that the preſerva<g ref="char:EOLhyphen"/>tion of our foot is due to his prudent foreſight and adviſe. If his va<g ref="char:EOLhyphen"/>lour had afforded us nothing elſe but the <hi>reſcued Standard,</hi> we could not ſufficiently celebrate his praiſe. It had ſurely in the peoples eies beene a ſad <hi>O men</hi> of ſucceeding enterprizes, had we not by his for<g ref="char:EOLhyphen"/>tunate and couragious atcheivement repaired ſo ſingular a loſſe; but this on the other ſide encourag'd them, who ſeeing the <hi>Standard</hi> ſo neare loſt, yet happily regained, conceived hopes that though the <hi>royall Diadem</hi> was as deeply engag'd, yet by the fortunate endea<g ref="char:EOLhyphen"/>vour of ſuch <hi>Noble Heroes</hi> that alſo together with the Kingdome might be recovered.</p>
+            <pb n="15" facs="tcp:155221:11"/>
+            <p>The next morning <hi>King</hi> CHARLES ſends for him to the top of <hi>Edge-hill,</hi> where His Majeſty (though the modeſt Gentleman did what lay in him to avoid the honour) Knighted him for his ſin<g ref="char:EOLhyphen"/>gular valour. Immediately our worthy Knight (ſeeing the <hi>Rebells</hi> having gathered all the reſidue of their ſtrength into a body, ſtood drawne up neare the ſide of <hi>Keinton</hi> Towne) ſignifies a great deſire he had that our horſe ſhould charge them, but that being not reſol<g ref="char:EOLhyphen"/>ved he craved liberty to have a ſmall party aſſign'd him, with which he would endeavour to fetch off ſome of their <hi>Canon,</hi> which being granted he march't downe into <hi>Keinton feild,</hi> and of his party he drew out about 30 to approach neare the body of the Rebells, and face them whil'ſt horſes were ſpan'd in to draw off the peices: he commanded this party himſelfe, facing their maine body within musket ſhot, but their horſe were ſo aw'd with the former dayes worke, that they durſt not adventure to charge him with that ſmall party; with which he brought off three braſle peices of <hi>Canon</hi> that ſtood about the left wing of the Rebells army in the battaile; which action our whole Army ſtood looking on with wonder and ap<g ref="char:EOLhyphen"/>plauſe. He concludes this dayes worke with the generous aſſi<g ref="char:EOLhyphen"/>ſtance he gave Sir <hi>Gervaſe Scroopes</hi> ſon in fetching off his valiant Father ſtript naked and almoſt dead, with the loſſe of ſo much bloud by nineteene wounds.</p>
+            <p>Theſe valiant actions made him very eminent in His Majeſties ſight, ſo that the royall munificence gives him a troope of his owne, and the noble Lord <hi>Grandiſon</hi> elects him for <hi>Major</hi> to his Regi<g ref="char:EOLhyphen"/>ment: wherein he did ſingular ſervice in divers places, exerciſing all parts of an excellent Commander; witneſſe his gallant behaviour in the fight at <hi>Brainceford,</hi> and his beating up of the enemies quar<g ref="char:EOLhyphen"/>ters, with his ſouldierlike retreat, the ſame yeare in <hi>December</hi> neare <hi>Wincheſter.</hi> Where with a ſmall party he dared to goe into the mouth of a powerfull army, to beat up their quarters, and afterward when they came upon him when he had done great execution in the place, with ſuch diſcretion to make his retreat ſcarce with the loſſe of a man in deſpite of them all.</p>
+            <p>He ſtill more and more expreſſed the greatneſſe of his ſpirit, and true magnanimity, when the next day the potent enemy had beſei<g ref="char:EOLhyphen"/>ged them in <hi>Wincheſter Caſtle;</hi> he would have iſſued out and tried the utmoſt of fortune, rather then ſubmit to thoſe whom he ſo much
+<pb n="16" facs="tcp:155221:12"/> deteſted, one of which in reſpect of their exigence in proviſion, they muſt of neceſſity doe. But when he ſaw the reſt diſclaiming and not concurring, he was faine to deſiſt: But nevertheleſſe diſ<g ref="char:EOLhyphen"/>daining to have any hand in the parley, refuſed to ſubſcribe to the articles of ſubmiſſion. How undauntedly he carried his captivity is incredible: as alſo how boldly he looked adverſity in the face. The Allmighty it ſeemes was pleaſed to make triall of his fortitude eve<g ref="char:EOLhyphen"/>ry way, to ſee whether he were as couragious in ſuffering as fighting, or as mild a Captive as a modeſt Conquerour. Very magnanimouſly did he ſupport this tedious triall of nine months impriſonment, where the enemy perceived his worth ſo well that they were loath to part with him on any conditions that might be termed reaſona<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Nevertheleſſe when the divine wiſedome ſaw him ſufficiently ex<g ref="char:EOLhyphen"/>erciſed in this ſchoole of patience, he is at laſt releaſed, to the ſin<g ref="char:EOLhyphen"/>gular joy and comfort of moſt brave ſpirits in the Kings Army: ſome of which even with teares at <hi>Oxford</hi> entertaine him. The noble Lord <hi>Herbert</hi> of <hi>Ragland</hi> wooes him to his ſervice, and makes him <hi>Lieu<g ref="char:EOLhyphen"/>tenant Colonell</hi> to his Regiment of horſe, with promiſe of a far more eminent place in very ſhort time. In this interim of his command here, I, attracted by the fame which rung through the Kingdome of him, repaired unto him, deſiring to ſerve His Majeſty under this matchleſſe Gentlemans command: and from that time to his death was an eye-witneſſe of what I ſhall after relate. There I obſerved the love, honour, and reſpect he had of all the Souldiers and Com<g ref="char:EOLhyphen"/>manders, which valued him beyond expreſſion. I could not chooſe likewiſe but ſee his exceeding modeſty in the midſt of all theſe re<g ref="char:EOLhyphen"/>ſpects and applauſes. In his expedition againſt <hi>Maſſey</hi> he expreſ<g ref="char:EOLhyphen"/>ſed the naturall averſion he had from riſſing the Country, or enrich<g ref="char:EOLhyphen"/>ing himſelfe by thoſe baſer meanes, in his frequent endeavours to re<g ref="char:EOLhyphen"/>ſtraine the ſouldiers from the purſuit thereof; where often he de<g ref="char:EOLhyphen"/>monſtrsted his noble mind ſtored with compaſſion, in tendering the complaints of ſuffering people.</p>
+            <p>The <hi>Court</hi> lookes upon him as one deſerving greater command, and more active imployments, wherefore in his returne from the ſaid expedition (where <hi>Glouceſters Idoll</hi> ſhew'd his dexterity in run<g ref="char:EOLhyphen"/>ning, as well as his policy in other things. ) Our worthy Knight meets with the Kings Letter, whereby he is called immediately
+<pb n="17" facs="tcp:155221:12"/> away to <hi>Oxford,</hi> where he is no ſooner arriv'd but commanded thence by His <hi>Majeſty</hi> to the <hi>Weſt,</hi> there to take the place of <hi>Ma<g ref="char:EOLhyphen"/>jor Generall</hi> to the horſe, in that Army under the Lord <hi>John Stuart,</hi> by whom at <hi>Wincheſter</hi> he is entertained with extraordinary wel<g ref="char:EOLhyphen"/>come; The <hi>Renowned Lord</hi> Hopton declaring that he alſo tooke no little content in the poſſeſſion of ſuch a Jewell. Indeed it was im<g ref="char:EOLhyphen"/>poſſible for a Gentleman to finde more honour and reſpect then he did from thoſe <hi>Worthy Lords,</hi> together with the whole Army, the eyes of all being bent upon him.</p>
+            <p>Our <hi>Gallant Major Generall</hi> now ſetled in his office, begins and proſecutes his affaires with that prudence, courteſie, and magnani<g ref="char:EOLhyphen"/>mity, that all ſorts of people were enamoured with his true excel<g ref="char:EOLhyphen"/>lency. He wonne the ſouldiers with his courteſie, the people with his modeſty, and even from his enemies drew he admiration for his gallantry. By this meanes his fame encreaſes daily to an unſpeaka<g ref="char:EOLhyphen"/>ble height, inſomuch that beyond Seas alſo he is celebrated as <hi>a wor<g ref="char:EOLhyphen"/>thy of the times.</hi> He hath here fought ſo good a fight, as claimes al<g ref="char:EOLhyphen"/>ready the ſpeedy poſſeſſion of a celeſtiall <hi>Diadem,</hi> and to that end he muſt now be ſummoned hence, but yet in the moſt honourable way that may be, whil'ſt he is ſacrificing his life for his King and Country in the head of a gallant Army.</p>
+            <p>Now approaches the battaile at <hi>Bramdean</hi> neare <hi>Alresford</hi> in <hi>Hampſhire,</hi> on <hi>March</hi> the 29. 1644. Wherein our Worthy muſt put a period to all his renowned actions, as if he had fore-known what was to ſucceed, the morne before he ſets out of <hi>Wincheſter,</hi> he pre<g ref="char:EOLhyphen"/>pares himſelfe for death in the beſt manner poſſible. All the time our Army lay expecting oportunity to aſſaile the enemy, every eye looked upon him as the <hi>loadſtarre</hi> of their ſucceſſe. In the night before the ſight he goes out himſelfe and killing the enemies Cen<g ref="char:EOLhyphen"/>tinell returnes backe with honour: In truth we had not any more daring, and vigilant then he.</p>
+            <p>It is incredible what chearfulneſſe, and alacrity he ſhow'd when the ſight drew nigh, at meat that morning, bidding his Souldiers <hi>feed heartily, for they ſhould have Princely ſport anon.</hi> The fight be<g ref="char:EOLhyphen"/>gins where our valiant Foote beat the Rebels out of the woods, and bravely even beſtowed a hopefull victory upon us, till ſome out of a <hi>raſh Gallantry</hi> engage both themſelves, and the fortune of a glorious day, inſomuch that the Horſe muſt needs be commanded
+<pb n="18" facs="tcp:155221:13"/> up, though upon a great diſadvantage, which our <hi>prudent Knight</hi> reſents, and to ſome that were neare unto him expreſſed a great diſ<g ref="char:EOLhyphen"/>like of it, but underſtanding that it was peremptory, he eſteemed his honour ſo highly that for a world he would not be ſeene to de<g ref="char:EOLhyphen"/>tract from any thing: leſt if thereupon any diſaſter ſhould enſue, the diſhonour ſhould light upon his innocence. On therefore he goes in <hi>Heroicke obedience,</hi> though expecting nothing elſe but what en<g ref="char:EOLhyphen"/>ſued. In a diſtracted manner they are of neceſſity to charge a ſolid body of the Rebels Horſe, lying under the protection both of Ca<g ref="char:EOLhyphen"/>non, and hedges lined with Musketiers: their Canon (when he is come almoſt within piſtoll ſhot with intention to charge in) flies off ſo freely, that amazes his Horſe, the fire even flaſhing in his face, cauſes him to reare, and turne ſidewiſe upon the enemy, who ſeeing all his riders power imployed to keepe his ſaddle, and recover his Horſe, let fly at him as thicke as haile: and in this in<g ref="char:EOLhyphen"/>terim comes one from amongſt them clad in Armes like a <hi>Lobſter,</hi> who with a Carbine gives him his third and mortall wound, in his belly on the left ſide beneath his armour; with this wound he falls, and with him the fortune of the day, and courage of our Horſe, for no ſooner was he downe, but daunted with ſo diſaſtrous an acci<g ref="char:EOLhyphen"/>dent they in a great diſorder retreat, ſcarce any but his own Troop remaining on that wing, who reſolving to die rather then looſe ſo <hi>brave a Leader</hi> advanced to fetch him off, even to the enemies noſe, &amp; indeſpite of them gallantly brought off him, his horſe, &amp; Armes, whilſt one of the Company a <hi>reformado</hi> Lieutenant in a brave re<g ref="char:EOLhyphen"/>venge, rides up to the <hi>Armed monſter</hi> and ſhootes him in the eye, ſending him to anſwer for his deteſted fact, in ſo baſe a manner wounding to death a Gentleman every way <hi>accompliſhed,</hi> and wor<g ref="char:EOLhyphen"/>thy. The Almighty was not pleaſed that any <hi>miſcreant</hi> ſhould live to glory in ſo foule an action.</p>
+            <p>Our <hi>Major Generall</hi> now wounded, deſires thoſe faithfull Gen<g ref="char:EOLhyphen"/>tlemen, <hi>not to ſuffer him to come into the enemies hands, but convay him to ſome place where he may a while repoſe with ſecurity.</hi> They bring him immediately to the <hi>Phiſitian Generall</hi> to be dreſt, who unfortunately miſſed his mortall wound diſcovering onely a bruiſe on the ſame ſide beneath it, and therefore concludes he is out of danger, upon this they bring him to <hi>Woonſton,</hi> a village 5 miles from <hi>Wincheſter,</hi> where his Troope lately quartered, here after he had
+<pb n="19" facs="tcp:155221:13"/> drunke a poſſet, and warm'd himſelfe a while, he deſires to lye downe and reſt, a bed is prepared and he lyes downe, immediately falling to ſleepe; which conſidered, together with the courage he ſupported his mortall wounds, made us confident he was out of danger: his being ſo hearty, and no ſighs or groanes to be percei<g ref="char:EOLhyphen"/>ved, as generally in dying men. He was no ſooner awake, but he began to queſtion <hi>how farre we were from the enemy, what time a night it was, and what was become of our Army:</hi> and after falls into a formall diſcourſe, wherein he diſpatcht ſome particular things concerning himſelfe, which becauſe they were private I omit: which done he lyes downe againe, and ſaid, <hi>the conceit of our men running away did more trouble him by farre then his wounds:</hi> and though others were hardly induced to beleeve it, both now and be<g ref="char:EOLhyphen"/>fore he expreſſed in a mild manner, <hi>that his life was neare a period:</hi> and conjured me by all the love and reſpect I ought him, to certifie his <hi>Deare Mother that he died with a quiet conſcience, and a reſigned mind, hoping likewiſe that ſhe would not take his death with too much heavineſſe, but rather rejoyce that ſhe had a ſon to ſhed his bloud for his Soveraigne.</hi> A truly Chriſtian, and Heroicall ſpeech, which though but ſhort, compriſed the very <hi>Elixar</hi> of true fortitude, loy<g ref="char:EOLhyphen"/>alty, and piety.</p>
+            <p>After this he prayes, making an excellent act of perfect reſigna<g ref="char:EOLhyphen"/>tion, ſaying, <hi>O my Lord and God, out of thy infinite goodneſſe have mercy upon mee, who caſt my ſelfe into thy bleſſed hands, heartily wi<g ref="char:EOLhyphen"/>ſhing that thy divine will may be performed in mee:</hi> whilſt he was thus like the <hi>Swan,</hi> ſinging ſo ſweet a <hi>dying Ode</hi> with eloquence ſcarce uſuall in his life time, his carriage is made ready, to take him from danger imminent, to a place of more ſecurity: and ſo to <hi>Oxford</hi> if it were poſſible. He notwithſtanding his deadly wounds, comes down ſtaires on foote, &amp; aſcends the carriage with that ſtoutneſſe, as hardly hath beene ſeene in a dying man: all the <hi>ſymptomes</hi> of paine you could perceive in him, was ſometimes he would bite his nether lip, when his pangs with moſt extremity came upon him. When we drew neere <hi>Andover,</hi> he began to ſay (his ſenſes being a little aſtoniſhed) <hi>Good my Lord let us charge up againe, let us charge them once againe, and the day is ours.</hi> As ſoone as we entred the towne he began to invoke the ſacred name of <hi>Jeſus,</hi> often re<g ref="char:EOLhyphen"/>peating it with a ſoft voyce, as if he had taken taken a guſt and
+<pb n="20" facs="tcp:155221:14"/> ſweetneſſe in the divine vertue of it. Shortly after, over againſt the ſigne of the <hi>Angel,</hi> in a mild and ſweet repoſe he expired: where it would have grieved the hardeſt heart to have ſeene him round encloſed with ſundry Gentlemen, condoling with teares the un<g ref="char:EOLhyphen"/>timely end of ſo <hi>Peerleſſe a Gentleman.</hi>
+            </p>
+            <p>Thus alas you have ſeene how <hi>this Worthy of our Age,</hi> one of the prime <hi>flowers</hi> in our <hi>Engliſh Garden,</hi> is cut off in his youth at the age of ſcarce thirty yeares: who ſeeing he was arriv'd to ſuch an eminent excellence in ſo ſhort a time, what might we have expe<g ref="char:EOLhyphen"/>cted from him, had he attained but a mans age? His body at <hi>Oxfora</hi> is entertained with exceeding griefe both to Court and City; whilſt his buriall is preparing at the Colledge of <hi>All-Soules</hi> in the Chan<g ref="char:EOLhyphen"/>cell, his body is expoſed to the peoples view, whither a great num<g ref="char:EOLhyphen"/>ber of all ſorts reſorted, ſome to view his wounds, and many to behold the man of whom fame had proclaimed ſo great things, and for whom now there was ſo univerſall lamentation.</p>
+            <p>The next day being the firſt of <hi>April</hi> in the afternoone, were his Funerall rites ſolemnized, with as much ceremony as the ſhort<g ref="char:EOLhyphen"/>neſſe of time, and meanes of preparation for one of his quality would permit, The manner whereof was briefly thus,</p>
+            <p>Firſt, three Trumpets with black Scarfes went ſounding very dolefully before, next his Horſe whereon he was ſlaine was led by a Page and covered in black to the ground, upon which were pla<g ref="char:EOLhyphen"/>ced his Eſcucheons of Armes. Then two Heralds went carrying his Sword and Spurres; the Corps were carried by Gentlemen of his owne Troope, whilſt the Pall ſet with Eſcucheons was ſupported by the Earles of <hi>Cleveland</hi> and <hi>Rivers,</hi> the Lord <hi>Herbert</hi> of <hi>Rag<g ref="char:EOLhyphen"/>land</hi> and the Lord <hi>John Somerſet</hi> his brother. Six Colonels, on each ſide the Corps three, carried his Armes; Then followed the Right Honourable the Lord <hi>Carington</hi> as principall mourner, accompa<g ref="char:EOLhyphen"/>nied by the Earle of <hi>Lindſey</hi> Lord Great Chamberlaine of <hi>England,</hi> and the Earles of <hi>Northampton</hi> and <hi>Dover,</hi> (from perſons of that degree an extraordinary reſpect) with divers others of the Nobi<g ref="char:EOLhyphen"/>lity, after theſe came all the chiefe Commanders of Horſe and Foot then in <hi>Oxford,</hi> with a multitude of other Gentlemen.</p>
+            <p>In this ſolemne manner proceeded they to <hi>Chriſt-Church,</hi> and in the South-eaſt corner of the Chappell, on the Southſide of the Quire, was the body of this renowned and gallant Souldier depo<g ref="char:EOLhyphen"/>ſited:
+<pb n="21" facs="tcp:155221:14"/> at the head of the late Viſcount <hi>Grandiſon.</hi> Where after the Office of buriall was performed, this following expreſſion in honour of his memory was made by <hi>Somerſet Herald.</hi>
+            </p>
+            <p>
+               <hi>THus it hath pleaſed Almighty God to take out of this tranſitory life unto his divine mercy, the valiant and moſt worthy Gentle<g ref="char:EOLhyphen"/>man, Sir</hi> JOHNSMITH, <hi>Knight, (deſcended of the ancient Fa<g ref="char:EOLhyphen"/>mily of</hi> Carington, <hi>from Sir</hi> Michael Carington <hi>Standard bearer to King</hi> RICHARD <hi>the firſt in the</hi> Holy-land) <hi>who for his ſignall valour in reſcuing His Majeſties Banner Royall, in the Battaile of</hi> Keinton, <hi>after it was poſſeſt by the Rebels at that time received the Honour of Knighthood, from His Majeſty in the field; and ſince in ſundry other Battailes againſt the Rebels, hath given ſingular teſti<g ref="char:EOLhyphen"/>mony of his loyalty and valour, eſpecially in that memorable Battaile of</hi> Bramdean <hi>on Friday laſt, the 29 of</hi> March: <hi>where having re<g ref="char:EOLhyphen"/>ceived ſeverall wounds in purſuite of victory, he dyed of them the day following at</hi> And over, <hi>and here in</hi> Oxford <hi>is now interred.</hi>
+            </p>
+            <p>God ſave the King.</p>
+            <p>Here lies our noble <hi>Heroe,</hi> whoſe memory exacts both from his Family and our Nation a Monument to adorn his triumphant aſhes, which I doubt not but either of them will performe, rather then ſuffer the leaſt ſtaine of ſo great neglect, or ingratitude reſt upon them. In the meane time will I make bold to inſcribe an <hi>Epitaph,</hi> upon this living monument which I now erect unto him.</p>
+         </div>
+         <div type="epitaph">
+            <pb n="22" facs="tcp:155221:15"/>
+            <head>His Epitaph.</head>
+            <head>Immortalitati Sacrum.</head>
+            <lg>
+               <l>
+                  <hi>SUſpend your teares, whilſt I declare</hi>
+               </l>
+               <l>
+                  <hi>Whoſe aſhes here enſhrined are.</hi>
+               </l>
+               <l>
+                  <hi>This Tombe adornes the precious duſt,</hi>
+               </l>
+               <l>
+                  <hi>Of one whoſe fame can never ruſt.</hi>
+               </l>
+               <l>
+                  <hi>That noble, valiant, gallant Knight,</hi>
+               </l>
+               <l>
+                  <hi>Renowned</hi> SMITH <hi>whoſe name ſo bright</hi>
+               </l>
+               <l>
+                  <hi>In honours Hemiſphears doth ſhine,</hi>
+               </l>
+               <l>
+                  <hi>That many judge it is divine:</hi>
+               </l>
+               <l>
+                  <hi>And that ſome Deity at leaſt,</hi>
+               </l>
+               <l>
+                  <hi>Doth his immortall ſoule inveſt.</hi>
+               </l>
+               <l>
+                  <hi>Beneath this Marble doth remaine</hi>
+               </l>
+               <l>
+                  <hi>The body, which did it containe,</hi>
+               </l>
+               <l>
+                  <hi>And here it lies to be refin'd</hi>
+               </l>
+               <l>
+                  <hi>Untill againe they be rejoyn'd.</hi>
+               </l>
+               <l>
+                  <hi>Thoſe endleſſe glories to poſſeſſe,</hi>
+               </l>
+               <l>
+                  <hi>Which crowne the Saints with happineſſe.</hi>
+               </l>
+            </lg>
+            <p>I cannot here omit to ſacrifice a teare or two upon his <hi>urne</hi> in a <hi>funerall Elegy,</hi> though in ſo doing I ſhall effect nothing but diſ<g ref="char:EOLhyphen"/>cover how ſenſible I am of his loſſe, ſo that even my raptures are ſo poſſeſt with his precious memory, that in them I am not able to conceale my paſſions.</p>
+         </div>
+         <div type="elegy">
+            <head>An Elegy.</head>
+            <lg>
+               <l>
+                  <hi>WEre</hi> Aganippe <hi>by ſome ſecret veyne</hi>
+               </l>
+               <l>
+                  <hi>Convey'd into the Ciſterns of my brayne,</hi>
+               </l>
+               <pb n="23" facs="tcp:155221:15"/>
+               <l>
+                  <hi>'Twould be exhal'd (me thinks) in learned teares.</hi>
+               </l>
+               <l>
+                  <hi>By this bright Sun, new placed in the Spheares</hi>
+               </l>
+               <l>
+                  <hi>Of immortality: yet grieve not I,</hi>
+               </l>
+               <l>
+                  <hi>To thinke he's ſeated in an Orbe ſo hie;</hi>
+               </l>
+               <l>
+                  <hi>For this were envy; I grieve alas! he's gone,</hi>
+               </l>
+               <l>
+                  <hi>So great a diſtance from our Horizon,</hi>
+               </l>
+               <l>
+                  <hi>That we deprived of his precious light</hi>
+               </l>
+               <l>
+                  <hi>Eſteeme the day a melancholy night.</hi>
+               </l>
+               <l>
+                  <hi>Yet this my griefe is vaine, ſince he doth ſhine</hi>
+               </l>
+               <l>
+                  <hi>Although Eclipſed to theſe rayes of mine</hi>
+               </l>
+               <l>
+                  <hi>By paſſion; which hath from my tender eyes</hi>
+               </l>
+               <l>
+                  <hi>Exhauſted ſuch a chriſtall ſacrifice</hi>
+               </l>
+               <l>
+                  <hi>Of ſtreaming teares, that they by love exhal'd</hi>
+               </l>
+               <l>
+                  <hi>In miſt-like incenſe hence, and then congeal'd</hi>
+               </l>
+               <l>
+                  <hi>Into a cloud by griefe, deprive my ſight</hi>
+               </l>
+               <l>
+                  <hi>Of his more glorious and immortall light:</hi>
+               </l>
+               <l>
+                  <hi>Till griefe and love, juſtling as cold, and heat,</hi>
+               </l>
+               <l>
+                  <hi>Combat in nature, like to her beget</hi>
+               </l>
+               <l>
+                  <hi>Flaſhes of fire, and together mould</hi>
+               </l>
+               <l>
+                  <hi>Something like thunder, out of heat and cold</hi>
+               </l>
+               <l>
+                  <hi>Jumbling together; loudly may proclayme</hi>
+               </l>
+               <l>
+                  <hi>To future worlds Great</hi> SMITH's <hi>Renowned name:</hi>
+               </l>
+               <l>
+                  <hi>And with the clap this dusky cloud remove,</hi>
+               </l>
+               <l>
+                  <hi>Which hides from me the bright aspect I love.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Ed: Walſingham.</signed>
+            </closer>
+         </div>
+         <div type="depiction_of_the_subjects_character">
+            <p>There are many whoſe curious affections will exact at my hands, many particulars about his inward and outward man, not yet ſpe<g ref="char:EOLhyphen"/>cified: which conſideration makes me here undertake a briefe de<g ref="char:EOLhyphen"/>ſcription of him, in ſome ſort by way of prevention to ſatisfie ſuch as would expect it of me.</p>
+            <p>Sir <hi>John Smith</hi> was of a middle ſtature, but ſtrongly built, his haire was long, and thick, in colour like a ripe filberd: very decent and becoming; his complextion was a moderate languine, but his aſpect was ſo awfull and ſterne, that you may conclude he was ra<g ref="char:EOLhyphen"/>ther formed to command Armies, then allure Ladies, though in truth I have not ſeene a Gentleman whoſe ordinary lookes were
+<pb n="24" facs="tcp:155221:16"/> repleat with ſuch a naturall majeſty, intermixed with ſuch ſingular modeſty. From his infancy did he retaine a certaine liſping in his ſpeech, which notwithſtanding, was rather an ornament, then any blemiſh unto him. In all his carriage and geſtures you could ob<g ref="char:EOLhyphen"/>ſerve nothing affected, or ſavouring of vanity, but on the contrary a certaine decent neglect, which did much become him. His hu<g ref="char:EOLhyphen"/>mility was very eminent, for notwithſtanding all that honour and reſpect which deſervedly attended him, could any one conclude that any thing in him ſavoured of pride, oſtentation, or arrogance, for he ſeemed wholy to be made of courteſy, reſpect, and modeſty. His exceſſes were ſo ſmall for ought that I could ever informe my ſelfe that he will be oftner admired then imitated; for though I curiouſly obſerved him, I could never yet conclude that I ſaw him overcome by drinke.</p>
+            <p>Complements and Ceremonies were for the moſt part neglected by him, as out of his element, and take him generally he was won<g ref="char:EOLhyphen"/>derfull ſparing and reſerved in his ſpeech: but what he ſaid was for the moſt part ſentences and ſolidly to the purpoſe: the truth is, he did infinitely better expreſſe his judgement, prudence, and gallant abilities in action then publicke diſcourſe, being none of thoſe windy gallants whoſe chifeſt eminence doth conſiſt in va<g ref="char:EOLhyphen"/>pouring bravely; yet was he not ſo reſerv'd in theſe things, but he had alſo a ſweet dexterity in accommodating himſelfe to time, or company which often gained him a great meaſure of love and reſpect. As he was without taint of vanity, ſo there was none more free from emulation, for he would ſpeake the beſt of all, and if he confeſſed their defects, would alſo acknowledge their ver<g ref="char:EOLhyphen"/>tues; yea though they were his enemies. He delighted to relate the exploits of others, but was ſo farre from boaſting of his owne, that he could ill tolerate to have another mention them.</p>
+            <p>In his councells he was very cloſe and reſerved, in his expedi<g ref="char:EOLhyphen"/>tions exceeding diſcreet, and vigilant in all his actions, as he was ſtrickt in his diſcipline and command to others, ſo alſo exact in o<g ref="char:EOLhyphen"/>beying his Commanders, and diſdaining no imployment whatſo<g ref="char:EOLhyphen"/>ever. There was no common Souldier more patient of labour, or hardneſſe. His diſpoſition was wonderfull noble, and his liberality ſuch that whilſt he had any thing, his Souldiers ſhould want no<g ref="char:EOLhyphen"/>thing. In his clothes he was nothing curious or vaine, witneſſe all that knew him.</p>
+            <pb n="25" facs="tcp:155221:16"/>
+            <p>With great diſcretion, would he make triall of their diſpoſition, ſidelities, and ability, whom he intended to imploy about him, or entertaine into the number of his familiar friends, hardly affecting any whoſe diſcretion, candour, and fidelity, he was not aſſured of by prudent experience. He would not raſhly determine of any thing that was brought before him without due digeſtion, and fit conſideration; his prudence and foreſight, all his ſpeeches and a<g ref="char:EOLhyphen"/>ctions did loudly proclaime. But which in reſpect of his youth is moſt admirable, I have not obſerved a Souldier more reſerved in courting Ladies, he was not eaſily intangled in every pleaſing ob<g ref="char:EOLhyphen"/>ject, but if ever he entertained himſelfe in that kind, a modeſt mirth, and not any baſer end was his inducement, for he judged ſuch diverſions unworthy entertainments for a noble mind if they tended any further then true affection and modeſt recreation. This is confirmed by a pleaſant paſſage happening not long ſince at <hi>Wincheſter,</hi> where he accidentally came to ſee a Letter by a young Gentlewoman of that place, in which he diſcovered ſo much wit and modeſty, expreſſed in ſo good language, that ſtruck with ad<g ref="char:EOLhyphen"/>miration he was very deſirous to know the authour. Her name was denied, but it was told him that ſhe was as beautifull as wife, and vertuous, and withall very young. Whereupon laying aſide all further curioſity, he anſwers, <hi>Bleſſed be God who hath made ſo many excellent gifts concurre in one creature.</hi> A rare concluſion for ſuch a diſcourſe, and admirable in a Souldier ſo young, and vi<g ref="char:EOLhyphen"/>gorous: It might well challenge any of the ancient contempla<g ref="char:EOLhyphen"/>tives for patron. Doubtleſſe it concluded that Chriſtian piety which was ſo eminent in him, to be true and ſolid.</p>
+            <p>I could not obſerve any Souldier more duly frequent his prayers if his buſineſſe would poſſibly permit, whereby if prevented he would ſeeke to ſupply his loſſe with frequent aſpirations, and acts of devotion. Nothing was more oppoſite to his nature then flat<g ref="char:EOLhyphen"/>tery, for he ſought alwayes with a candid freedome to ſpeake his mind, which if he did not deſire to have knowne, he would by ſi<g ref="char:EOLhyphen"/>lence rather then diſſimulation conceale it. What time he could ſteale from company, or imployments, he would privately imploy in reading Military inſtructions, and obſervations; or elſe repoſing himſelfe on his bed conſult what he was to doe, and lay grounds for future deſignes, all which he went about with great prudence, and diſcretion.</p>
+            <pb n="26" facs="tcp:155221:17"/>
+            <p>He was none of thoſe who out of a bravery and raſh inconſide<g ref="char:EOLhyphen"/>ration run headlong with their followers into inevitable dangers; but as there was none in the fact more valiant, ſo there was none in the circumſtance more diſcreet, which cauſed all that knew him with incredible confidence of felicity to accompany him in any enterprize; whom ſtill he brought off with that ſucceſſe as ſel<g ref="char:EOLhyphen"/>dome any the like; nay, in that neare <hi>Alrezford</hi> (where it plea<g ref="char:EOLhyphen"/>ſed God to ſummon him from this earthly warfare to place him amongſt his heavenly Legions, there to proſecute his Soveraignes quarrell) not one of his followers were hurt, though expoſed as much as any, and ſome of them even laſt in the place. His former felicity ſtill accompanying them even at this time, when it for<g ref="char:EOLhyphen"/>ſooke himſelfe, to inveſt him in felicities by infinite degrees more permanent, and truly excellent.</p>
+            <p>Here muſt I ſet a period to my deſcription of this gallant Gentle<g ref="char:EOLhyphen"/>man, with this confeſſion, that I want judgment and abili<g ref="char:EOLhyphen"/>ties duly to expreſſe his excellencies. Which I cannot better ſup<g ref="char:EOLhyphen"/>ply then with this acknowledgment: let any one imagine, what perfections they could wiſh in a moſt valiant, loyall, and Chriſtian Knight, I dare affirme them eminent in this <hi>matchleſſe Commander</hi> inſomuch that not onely his family, friends, and followers, but alſo deſervedly our whole Nation may glory in him; as a ſingular or<g ref="char:EOLhyphen"/>nament unto them all: whoſe fame will doubtleſſe ever remaine, increaſing dayly with greater ſplendor, as long as our <hi>Engliſh Na<g ref="char:EOLhyphen"/>tion</hi> hath a being.</p>
+            <p>To the advancement of whoſe glory I muſt needs place this <hi>Trophes of the Muſes,</hi> as a votive tablet upon his famous <hi>Shrine,</hi> thereby to incite the learned <hi>Poets</hi> of our Nation to imploy their <hi>diviner pens</hi> in ſo excellent a worke, as concurring to immortalize the memory of <hi>ſo brave a Spirit.</hi>
+            </p>
+         </div>
+         <div type="acrostic_concrete_poem">
+            <pb n="27" facs="tcp:155221:17"/>
+            <head>An Acrostick <hi>ANAGRAM</hi>
+            </head>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>S'</hi>hame 'tis to ceaſe, aloud for</seg> 
+               <seg rend="centerJustify">TO</seg> 
+               <seg rend="italic rightJustify">proclaime</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>R</hi>enowned Acts</seg> 
+               <seg rend="centerJustify">THAT</seg> 
+               <seg rend="italic rightJustify">merit laſting fame;</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>J</hi>n hope of which, the</seg> 
+               <seg rend="centerJustify">NOBLE</seg> 
+               <seg rend="italic rightJustify">r ſpirits run</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>O</hi>n brave attempts, that</seg> 
+               <seg rend="centerJustify">WORTHY</seg> 
+               <seg rend="italic rightJustify">ly they done;</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>H</hi>onor may cloſe, and fame</seg> 
+               <seg rend="centerJustify">THE</seg> 
+               <seg rend="italic rightJustify">ir actions crowne:</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>N</hi>ew ages call them</seg> 
+               <seg rend="centerJustify">MIRROR</seg> 
+               <seg rend="italic rightJustify">'s of renowne.</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>S</hi>hall this be ſaid</seg> 
+               <seg rend="centerJustify">OF TRUE</seg> 
+               <seg rend="italic rightJustify">th? and yet not one</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>M</hi>ake haſt to place fam'd</seg> 
+               <seg rend="centerJustify">VALOUR</seg> 
+               <seg rend="italic rightJustify">s Impreſſe on</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>I</hi>nequall'd SMITHE,</seg> 
+               <seg rend="centerJustify">Sr JOHN</seg> 
+               <seg rend="italic rightJustify">that valiant Knight</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>T</hi>hat makes the name of</seg> 
+               <seg rend="centerJustify">SMITHE</seg> 
+               <seg rend="italic rightJustify">the Lands delight.</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>H</hi>appy</seg> 
+               <seg rend="centerJustify">PRESERVER</seg> 
+               <seg rend="italic rightJustify">fro<g ref="char:cmbAbbrStroke">̄</g> the worſt of harmes</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>E</hi>ven the glory</seg> 
+               <seg rend="centerJustify">OF THE</seg> 
+               <seg rend="italic rightJustify">Imperiall Armes:</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>H</hi>e waighing death leſſe then the</seg> 
+               <seg rend="centerJustify">ROYALL</seg> 
+               <seg rend="italic rightJustify">ſtaine,</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>I</hi>ngag'd his life the</seg> 
+               <seg rend="centerJustify">STANDARD</seg> 
+               <seg rend="italic rightJustify">to regaine.</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>S</hi>hall we deſiſt now</seg> 
+               <seg rend="centerJustify">IN REWARD OF</seg> 
+               <seg rend="italic rightJustify">this</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>T</hi>o ſing his praiſe? or ſhall</seg> 
+               <seg rend="centerJustify">HIS VERTUE</seg> 
+               <seg rend="italic rightJustify">miſſe</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>I</hi>n fame to live?</seg> 
+               <seg rend="centerJustify">AND'S LOYALTY</seg> 
+               <seg rend="italic rightJustify">lye low</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>M'</hi>indleſſe ith' duſt?</seg> 
+               <seg rend="centerJustify">THE VIRGIN QUIRE</seg> 
+               <seg rend="italic rightJustify">ſay, no.</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>S</hi>ooner we'll looſe</seg> 
+               <seg rend="centerJustify">OF LEARNED</seg> 
+               <seg rend="italic rightJustify">maids the name,</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>H</hi>is worth ſhall live,</seg> 
+               <seg rend="centerJustify">MUSES</seg> 
+               <seg rend="italic rightJustify">have vow'd the ſame.</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>O</hi>n honor's altar we</seg> 
+               <seg rend="centerJustify">HAVE PLACED THIS</seg> 
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>N</hi>ew</seg> 
+               <seg rend="centerJustify">TROPHY, FOR AN</seg> 
+               <seg rend="italic rightJustify">endleſſe marke of his</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>E</hi>ternall praiſe, and</seg> 
+               <seg rend="centerJustify">EVERLASTING</seg> 
+               <seg rend="italic rightJustify">gaines:</seg>
+            </l>
+            <l>
+               <seg rend="italic leftJustify">
+                  <hi>R</hi>ecord whereof this</seg> 
+               <seg rend="centerJustify">MONUMENT</seg> 
+               <seg rend="italic rightJustify">containes.</seg>
+            </l>
+            <p rend="centerJustify">UPON THIS ALTAR
+<lb/>OF HONOR IN THE
+<lb/>RAIGNE OF THE
+<lb/>UNPARALLEL'D PRINCE
+<lb/>WHOM HE SERVED
+<lb/>
+               <hi>CHARLES THE GRACIO<g ref="char:V">Ʋ</g>S</hi>
+            </p>
+            <p rend="centerJustify">ANGLICANO HEROI Sacrum
+<lb/>Hoc Trophaeum Pierides ſacrae dicant.</p>
+         </div>
+         <div type="authors_apology">
+            <pb n="28" facs="tcp:155221:18"/>
+            <head>The Author, to cenſure.</head>
+            <p>GEntlemen. Our Engliſh <hi>Triſmegiſtus,</hi> that Oracle of wit in his <hi>Advancment of Learning,</hi> delivers ſom what ſingular in defence of my endeavours in this kind, which ſeeing requiſite I cannot pru<g ref="char:EOLhyphen"/>dently omit. <hi>As for lives when I thinke thereon. I doe find ſtrange that theſe our times have ſo little knowne and acknowledged their own vertues, being there is ſo ſeldome any memoriall of the lives of thoſe who have beene eminent in them. For although Kings and ſuch as have abſolute Soveraignty may be few, and Princes in free Commonwealths not many. Yet however there hath not beene wanting excellent men, though of an inferiour degree that have deſerved better then an uncer<g ref="char:EOLhyphen"/>taine and wandring fame of their memory, or ſome naked and barren Elegy.</hi> Such certainly was himſelf, and the Gentleman I have here expoſed: chooſing rather like one of thoſe Swans (of whoſe pau<g ref="char:EOLhyphen"/>city the learned <hi>Viſcount</hi> complaines) to carry my <hi>tablet to the Tem<g ref="char:EOLhyphen"/>ple of Immortality,</hi> then like thoſe other <hi>negligent birds</hi> looſe it in the <hi>River Lethe:</hi> leſt my owne name ſhould deſervedly live fa<g ref="char:EOLhyphen"/>mous onely for ingratitude; that living could neglect to expreſſe his unparallel'd worth, who even dying look't with ſuch a happy and affectionate eye on my indeſert; yet am I ſo farre from judge<g ref="char:EOLhyphen"/>ing that theſe meane endeavours have acquitted the debts and affe<g ref="char:EOLhyphen"/>ctions of others, that I beleeve to have ſcarce ſatisfied for my ſelfe, nor ſhall I reſt content till I bring one graine of incenſe more to that great oblation which I hope the <hi>Muſes</hi> will offer ere long in publique to his memory thereby to induce <hi>Hiſtorians</hi> thoſe Gold<g ref="char:EOLhyphen"/>ſmiths of time in their elaborate rings the Chronicles and Relati<g ref="char:EOLhyphen"/>ons of theſe daies, curiouſly to enchace this choicer <hi>Diamond</hi> to the delight and benefit of ſucceeding ages.</p>
+            <epigraph>
+               <q>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t'herba ſolſtitialis pauliſper ſumns.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
